@@ -1,5 +1,5 @@
 ---
-title: "Data 100 Final Paper"
+title: "Data 101 Final Paper"
 output: github_document
 ---
 ```{r}
